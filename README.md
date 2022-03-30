@@ -6,8 +6,7 @@ Pouzitie:
 klags server[:port] [group-id]
  - server - IP adresa alebo DNS meno servera s beziacim brokerom
  - port - je cislo portu, na ktorom nacuva broker (NIE Zookeeper)
- - group-id - je meno konzumer skupiny, pre ktoru chcete zobrazit informacie. Ak meno skupiny vynechate, program Vam ponukne   
-   zoznam dostupnych skupin na vyber.
+ - group-id - je meno konzumer skupiny, pre ktoru chcete zobrazit informacie. Ak meno skupiny vynechate, program Vam ponukne zoznam dostupnych skupin na vyber.
 
 ### Poznamka:
 exe subor bol vytvoreny programom pyinstaller pod MSW 10   
