@@ -1,6 +1,6 @@
 # klags
 
-Program zobrazi informaciu o offsete/lagu topiku(ov) pozadovanej konzumer skupiny.   
+Program v prikazovom riadku zobrazi informaciu o offsete/lagu topiku(ov) pozadovanej konzumer skupiny v Kafke.   
 
 Pouzitie:   
 klags server[:port] [group-id]
@@ -17,7 +17,7 @@ exe subor bol vytvoreny programom pyinstaller pod MSW 10
       
 # klags   
 
-Display Kibana lags/offsets for requested consumer groups.   
+Display Kafka lags/offsets for requested consumer group in command line.   
 
 Use:   
 klags server[:port] [group-id]
